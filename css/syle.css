@@ -1,0 +1,22 @@
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  background-color: #1389B2;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+
+.fizz{
+  background-color: #0AD6A1;
+}
+
+.buzz{
+  background-color: #F0456E;
+}
+
+.fizzbuzz{
+  background-color: #FFD166;
+}
